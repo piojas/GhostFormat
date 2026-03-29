@@ -25,7 +25,7 @@ To run this tool, you need:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/piojas/GhostFormat.git](https://github.com/piojas/GhostFormat.git)
+    git clone https://github.com/piojas/GhostFormat.git
     cd GhostFormat
     ```
 
