@@ -63,3 +63,7 @@ To add GhostFormat to your system menu, you can create a `.desktop` entry:
 ## ⚠️ Disclaimer
 
 **WARNING:** Formatting a disk erases all data. While this tool includes safety filters to hide system drives, always double-check the device name (e.g., `da0`) before proceeding. Use at your own risk.
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
